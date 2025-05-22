@@ -1,7 +1,3 @@
-name:sanjeevpriya
-
-reg no: 212224040289
-
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -25,6 +21,10 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
+name:sanjeevpriya
+
+reg no: 212224040289
+
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
@@ -35,5 +35,5 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # result
 
-this program implemented successfully.
+this program  is implemented successfully.
 
